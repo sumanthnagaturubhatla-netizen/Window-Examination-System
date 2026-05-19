@@ -189,6 +189,6 @@ python main.py
 # Authors
 
 * Turubhatla Naga Sumanth
-* Gorrela Manikanta Sai
+
 
 ---
